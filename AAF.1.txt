@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><i><b><big><u>WHAT IS AAF?</u></big></b></i></h1>
+    <br>
+     <img src="https://www.iafindia.com/wp-content/uploads/2021/02/CFC1BCA2-54E1-4EF3-A341-EB740614C554-768x1024.jpg">
+     
+    <h3><i><b><big>'Anu Aggarwal Foundation'</big></b>.This Non-profit organisation is found by <b><big>The Aashiqui Actor 
+        'ANU AGGARWAL'.</big></b></i></h3>
+     <h3><i>Who once owing to Suicidal tendencies,Depression,Renounced Top Stardom to turn a 
+        'Karmayogi'only to defy death later and heal herself single- handedly from <b><big>
+
+     'Acute Trauma','Cognitive loss' and 'Paralysis</big></b>'.</i></h3>
+     <p><b><big><i><u>To Share Her Healing Miracle For Her Care Of The Community</u></i></big></b></p>
+     <h3><i>Masters In Social Work The Founder Anu Has Lived As A Monk For Many Year
+        Further Training Herself In Serving People Selflessly.</i></h3>
+        <br>
+        <p1><big><i>'AAF Not Just Home-delivers But Soul-delivers Happiness.'</i></big></p1>
+        <img src="https://anuaggarwalfoundation.org/wp-content/uploads/slider3/Prevent-vulnerability-of-women-to-mental-health-problems.jpeg">
+        
+        <br><br>
+        <p2><b><i><big><u>MISSION:</u></big></b>Awaken People To Eradicate Inner Poverty, Get Better Health, Heralding
+            A New Dawn Of Peace.</i></p2>
+            <br><br>
+            <p3><b><i><big><u>MOTTO:</u></big></b>Happiness Based Education For World Peace.</i></p3>
+            <br><br>
+
+            <img src="https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2021/5/27/60-Anu-Aggarwal-taking-yoga-classes-new.jpg"/>
+
+            <h4><i><b><big><u>Divine transformation: Anu Aggarwal taking yoga classes for children and the underprivileged.</u></big></b></i></h4>
+           <br><br>
+            <p5><big><i><b>WANT TO KNOW MORE ABOUT US?</b></i></big></p5>
+           
+           <a href="http://www.anuaggarwalfoundation.org">Our Official Website Link</a>
+           <br><br>
+           <p6><big><i><b>GET TO KNOW WHAT ALL WE DO:-</b></i></big></p6>
+           <a href="https://www.bollywoodkibaten.in/2022/07/aashiqui-fame-anu-aggarwal-on-how-her.html">Our Official Website Link</a>
+            <br><br>
+           <p7><i><big><b>WANT TO CONTRIBUTE TO THIS NOBLE CAUSE?</b></big></i></p7>
+           <a href="https://anuaggarwalfoundation.org/events/">Contribute here</a>
+           <br><br>
+           <p8><b><big><i><u>OUR OFFICIAL INSTAGRAM PAGE:</u></i></big></b></p8>
+           <a href="https://www.instagram.com/anuaggarwalfoundation/?hl=en">AAF Instagram Handle</a>
+           <br><br>
+           <p9><big><b><u><i>AWARDS</i></u></b></big></p9>
+           
+           
+
+           
+<style>
+    @media screen and (max-width:600px) , 
+        screen and (orientation:landscape) {
+        body {
+        color: aqua;
+        
+    }
+}
+    h1{
+        color: rgb(60, 167, 167);
+    }
+    
+    h3{
+        text-align: left;
+    }
+    p,p9{
+        font-size: xx-large; font-weight:1000px;font-style: oblique ;color: rgb(29, 136, 75);
+    }
+    p1{
+        font-size: x-large;color: rgb(167, 41, 106);
+    }
+    p2,p3{
+        font-size: x-large;
+    }
+    h4{
+        color: brown;
+    }
+    p5{
+        font-size: xx-large;color: rgb(138, 163, 46);
+    }
+    p6,p10{
+        font-size: xx-large;color: rgb(206, 107, 41);
+    }
+    p7{
+        font-size: xx-large;color: chartreuse;
+    }
+    p8{
+        font-size: xx-large;color: darkcyan;
+    } 
+   
+    .Yoga{
+    border: 2px solid rgb(182, 31, 169);
+   }
+   .partners{
+    border: 2px solid rgb(182, 31, 169);
+   }
+    
+</style>
+<div class="Yoga"><big><b><i>1.Yoga Award by Govt. of India</i></b></big></div>
+<div class="Yoga"><big><b><i>2.Smiley Ambassador, United States</i></b></big></div>
+<div class="Yoga"><big><b><i>3.TEDx Speaker</i></b></big></div>
+<div class="Yoga"><big><b><i>4.Naturopathy Doctor, ICNM</i></b></big></div>
+<div class="Yoga"><big><b><i>5.Outstanding Research on Cancer</i></b></big></div>
+<br><br>
+<p10><big><b><u><i>PARTNERS</i></u></b></big></p10>
+<div class="partners"><big><b><i>1.DALAI LAMA FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>2.ACORN FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>3.AKANKSHA FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>4.KAIVALYADHAM</i></b></big></div>
+<div class="partners"><big><b><i>5.ONGC</i></b></big></div>
+<div class="partners"><big><b><i>6.GLOBALLOGICS</i></b></big></div>
+<div class="partners"><big><b><i>7.WORLD KINDNESS INDIA</i></b></big></div>
+<div class="partners"><big><b><i>8.MARY KOM FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>9.WOCKHARDT FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>10.SMITA MEMORIAL CANCER FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>11.BE HAPPY FOUNDATION GOA</i></b></big></div>
+<div class="partners"><big><b><i>12.ICAI, UAE</i></b></big></div>
+<div class="partners"><big><b><i>13.ICNM</i></b></big></div>
+<div class="partners"><big><b><i>14.YOGA THERAPY RESEARCH ASSO.</i></b></big></div>
+<div class="partners"><big><b><i>15.AYUSH FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>16.MINSTRY OF AYUSH</i></b></big></div>
+<div class="partners"><big><b><i>17.KHUSHI RAINBOW HOME</i></b></big></div>
+<div class="partners"><big><b><i>18.YETI FOUNDATION</i></b></big></div>
+<div class="partners"><big><b><i>19.AHSAAS SHIKSHA KENDRA</i></b></big></div>
+<div class="partners"><big><b><i>20.DESIRE SOCIETY</i></b></big></div>
+<div class="partners"><big><b><i>21.TIMES HEALTH WELLNESS EXPO</i></b></big></div>
+<div class="partners"><big><b><i>22.HARVEY BALL SMIL FOUNDATION/i></b></big></div>
+<div class="partners"><big><b><i>23.INTEGRATIVE MEDICINE MEETING</i></b></big></div>
+<div class="partners"><big><b><i>24.IMM INTEGRATIVE MEDICINE</i></b></big></div>
+<br><br>
+<p><big><u><i><b>AREAS OF WORK:</b></i></u></big></p><br><br>
+<p11><big><u><i><b>1.West India</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>2.North India</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>3.South West India,</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>4.Texas</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>5.US</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>6.Ixtapa Mexico</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>7.Barcelona Spain</b></i></u></big></p11><br><br>
+<p11><big><u><i><b>8.London</b></i></u></big></p11>
+
+</body>
+</html>
